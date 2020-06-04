@@ -1,0 +1,72 @@
+/* Style sheet created by Steven Reybein 3/6/20 */
+
+/* Style for body specifies a background color */
+
+	
+	
+* {
+	font-family: font-family: Georgia, "Times New Roman", serif;
+}
+
+main {
+	color:#FFFFFF;
+	display: block;
+    font-size: 1.5em;
+    margin-top: 2em;
+    padding: 1em;
+    border-radius: 2em 2em 2em 2em;
+    background-color: #4d4d4c;
+    opacity: 0.85;
+	margin-left: 3em;
+	margin-right: 3em;
+}
+
+body {
+	background-color:#1D1D1c;
+	
+}
+
+/*Style to create a fluid image*/
+img {
+	max-width: 100%
+}
+
+/*Styles for mobile layout*/
+
+
+/* Style for container centers the page and sets the element width */
+#container {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* styles for the header specifies top margin, background color, rounded corners, and center-aligns content*/
+header {
+		text-align: center;
+		color: #ffffff;
+		font-size: 1.5em;
+		
+}
+
+/* Style for nav specifies texat properties*/
+nav {
+	font-family: Georgia, "Times New Roman", serif;
+	font-size: 1.25em;
+	font-weight: bold;
+	margin-top: -1.5em;
+	text-align: center;
+	padding-top: 1em;
+	text-decoration: none;
+	color: F8CE26;
+}
+
+
+table, td {
+	border: 0px solid black;
+  border-collapse: collapse;
+}
+
+
+
+
